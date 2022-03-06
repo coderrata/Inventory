@@ -1,0 +1,12 @@
+C:\Users\coderrata\Desktop\dojo_assignments\C#\PROJECT\TestAPI\Inventory\bin\Debug\net5.0\publish\Inventory.exe
+C:\Users\coderrata\Desktop\dojo_assignments\C#\PROJECT\TestAPI\Inventory\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\coderrata\Desktop\dojo_assignments\C#\PROJECT\TestAPI\Inventory\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\coderrata\Desktop\dojo_assignments\C#\PROJECT\TestAPI\Inventory\bin\Debug\net5.0\publish\global.json
+C:\Users\coderrata\Desktop\dojo_assignments\C#\PROJECT\TestAPI\Inventory\bin\Debug\net5.0\publish\Inventory.dll
+C:\Users\coderrata\Desktop\dojo_assignments\C#\PROJECT\TestAPI\Inventory\bin\Debug\net5.0\publish\Inventory.deps.json
+C:\Users\coderrata\Desktop\dojo_assignments\C#\PROJECT\TestAPI\Inventory\bin\Debug\net5.0\publish\Inventory.runtimeconfig.json
+C:\Users\coderrata\Desktop\dojo_assignments\C#\PROJECT\TestAPI\Inventory\bin\Debug\net5.0\publish\Inventory.pdb
+C:\Users\coderrata\Desktop\dojo_assignments\C#\PROJECT\TestAPI\Inventory\bin\Debug\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\coderrata\Desktop\dojo_assignments\C#\PROJECT\TestAPI\Inventory\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\coderrata\Desktop\dojo_assignments\C#\PROJECT\TestAPI\Inventory\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\coderrata\Desktop\dojo_assignments\C#\PROJECT\TestAPI\Inventory\bin\Debug\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

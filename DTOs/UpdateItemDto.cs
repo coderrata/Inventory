@@ -9,7 +9,7 @@ namespace Inventory.DTOs
         [Required]
         public string Name {get;init;} 
         [Required]
-        [Range(1, 1000)]
+        [Range(1, 10000)]
         public decimal Price {get;init;}
     }
 }

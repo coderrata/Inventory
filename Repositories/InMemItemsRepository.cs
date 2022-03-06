@@ -10,9 +10,9 @@ namespace Inventory.Repositories
     {
         private readonly List<Item> items = new() // This is a target-typed expression before we would write new List<Item>
         {
-            new Item { ID = Guid.NewGuid(), Name = "Potion", Price = 9, CreatedAt = System.DateTimeOffset.UtcNow },
-            new Item { ID = Guid.NewGuid(), Name = "Iron Sword", Price = 20, CreatedAt = System.DateTimeOffset.UtcNow },
-            new Item { ID = Guid.NewGuid(), Name = "Bronze Shield", Price = 18, CreatedAt = System.DateTimeOffset.UtcNow }
+            new Item { ID = Guid.NewGuid(), ItemName = "Asus Z690 Strix", ItemPrice = 489, CreatedAt = System.DateTimeOffset.UtcNow },
+            new Item { ID = Guid.NewGuid(), ItemName = "Nvidia GTX3080", ItemPrice = 1000, CreatedAt = System.DateTimeOffset.UtcNow },
+            new Item { ID = Guid.NewGuid(), ItemName = "AMD Ryzen Threadripper", ItemPrice = 2400, CreatedAt = System.DateTimeOffset.UtcNow }
         };
         public IEnumerable<Item> GetItems() // Returns a collection of items
         {

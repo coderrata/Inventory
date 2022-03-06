@@ -54,8 +54,8 @@ namespace Inventory.Controllers
             Item item = new()
             {
                 ID = Guid.NewGuid(),
-                Name = itemDto.Name,
-                Price = itemDto.Price,
+                ItemName = itemDto.Name,
+                ItemPrice = itemDto.Price,
                 CreatedAt = DateTimeOffset.UtcNow
             };
 
@@ -74,8 +74,8 @@ namespace Inventory.Controllers
 
             Item updatedItem = existingItem with 
             { 
-                Name = itemDto.Name,
-                Price = itemDto.Price
+                ItemName = itemDto.Name,
+                ItemPrice = itemDto.Price
             };
 
             repository.UpdateItem(updatedItem);

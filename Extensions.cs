@@ -9,8 +9,8 @@ namespace Inventory
             return new ItemDto
             {
                 ID = item.ID,
-                Name = item.Name,
-                Price = item.Price,
+                ItemName = item.ItemName,
+                ItemPrice = item.ItemPrice,
                 CreatedDate = item.CreatedAt,
                 UpdatedAt = item.UpdatedAt
             };

@@ -21,8 +21,8 @@ namespace Inventory.Models
         ----------------------------------------------------------------*/
         
         public Guid ID { get; init; } 
-        public string Name {get;init;}
-        public decimal Price {get;init;}
+        public string ItemName {get;init;}
+        public decimal ItemPrice {get;init;}
         public DateTimeOffset CreatedAt {get;init;}
         public DateTime UpdatedAt {get;set;}
 
